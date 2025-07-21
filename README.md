@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Otávio Oliveira
+# 🧑‍💻 Otávio Oliveira
 
 **`Desenvolvedora FullStack`**
 
