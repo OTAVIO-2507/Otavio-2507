@@ -160,7 +160,7 @@ Me chamo Otávio Oliveira, tenho 19 anos e sou natural de São Paulo. Concluí o
 <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="300" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otavio-2507&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
