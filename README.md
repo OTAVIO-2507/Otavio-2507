@@ -10,17 +10,17 @@ Me chamo Otávio Oliveira, tenho 19 anos e sou natural de São Paulo. Concluí o
  <a href="https://x.com/OtvioOl58123236?t=_TUwWI3W_ec50cQcd_nBLA&s=08" target="_blank">[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/OtvioOl58123236)</a>
  <a href="https://discordapp.com/users/672904774949142557" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  <a href = "mailto:206892023@eniac.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><a href="https://www.linkedin.com/in/ot%C3%A1vio-oliveira-b9b269267?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://github.com/Otavio-2507?tab=repositories&sort=stargazers">
+ <a href="https://github.com/OTAVIO-2507?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Otavio-2507?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/>
+            src="https://custom-icon-badges.demolab.com/github/stars/OTAVIO-2507?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/>
  </a>
- <a href="https://github.com/Otavio-2507?followers">
+ <a href="https://github.com/OTAVIO-2507?followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Otavio-2507?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
+            src="https://custom-icon-badges.demolab.com/github/followers/OTAVIO-2507?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
  </a>
 </p>
 
