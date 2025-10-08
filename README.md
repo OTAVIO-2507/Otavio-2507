@@ -89,7 +89,7 @@ Me chamo Otávio Oliveira, tenho 20 anos e sou natural de São Paulo. Concluí o
 
 ### 📊 Estatísticas
 
-<p  align="center">
+<p  align="left">
 <img 
     alt="GitHub Stats" 
     height="200" 
