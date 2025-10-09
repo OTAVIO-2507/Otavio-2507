@@ -89,8 +89,6 @@ Me chamo Otávio Oliveira, tenho 20 anos e sou natural de São Paulo. Concluí o
 
 ### 📊 Estatísticas
 
-### 📊 Estatísticas
-
 <p>
 <img 
     align="left"
