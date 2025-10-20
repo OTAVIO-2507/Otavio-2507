@@ -20,8 +20,8 @@ Me chamo Otávio Oliveira, tenho 20 anos e sou natural de São Paulo. Concluí o
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/OTAVIO-2507?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white&cache_seconds=1800"/>
- </a>
+            src="https://img.shields.io/github/followers/OTAVIO-2507?label=Seguidores&style=for-the-badge&color=236ad3&logo=github&logoColor=white&cache_seconds=1800"/> 
+</a>
 </p>
 
 ---
