@@ -37,10 +37,10 @@ Me chamo Otávio Oliveira, tenho 20 anos e sou natural de São Paulo. Concluí o
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats-main-one-8o.vercel.app/api?username=OTAVIO-2507&show_icons=true&theme=tokyonight&locale=pt-br&cache_seconds=7200&include_all_commits=true">
+    src="https://github-readme-stats-mauve-tau-80.vercel.app/api?username=OTAVIO-2507&show_icons=true&theme=tokyonight&locale=pt-br&cache_seconds=7200&include_all_commits=true">
 
 <img 
     align="left"
     alt="Top Langs" 
     height="200" 
-    src="https://github-readme-stats-main-one-8o.vercel.app/api?username=OTAVIO-2507&theme=omni&layout=compact&custom_title=Languages&langs_count=9">
+    src="https://github-readme-stats-mauve-tau-80.vercel.app/api/top-langs/?username=OTAVIO-2507&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9">
