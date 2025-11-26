@@ -43,4 +43,4 @@ Me chamo Otávio Oliveira, tenho 20 anos e sou natural de São Paulo. Concluí o
     align="left"
     alt="Top Langs" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=OTAVIO-2507&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=1800"/>
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=OTAVIO-2507&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
