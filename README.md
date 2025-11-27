@@ -14,7 +14,7 @@ Me chamo Otávio Oliveira, tenho 20 anos e sou natural de São Paulo. Concluí o
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-             src="https://custom-icon-badges.demolab.com/github/stars/OTAVIO-2507?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas&cache_seconds=30"/>
+             src="https://custom-icon-badges.demolab.com/github/stars/OTAVIO-2507?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas&cache_seconds=40"/>
  </a>
  <a href="https://github.com/OTAVIO-2507?followers">
         <img 
