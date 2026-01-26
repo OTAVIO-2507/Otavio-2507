@@ -37,7 +37,7 @@ Me chamo Otávio Oliveira, tenho 20 anos e sou natural de São Paulo. Concluí o
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats-mauve-tau-80.vercel.app/api?username=OTAVIO-2507&show_icons=true&theme=react&locale=pt-br&cache_seconds=3600&include_all_commits=true">
+    src="https://github-readme-stats-mauve-tau-80.vercel.app/api?username=OTAVIO-2507&show_icons=true&theme=react&locale=pt-br&cache_seconds=7200&include_all_commits=true">
 
 <img 
     align="left"
