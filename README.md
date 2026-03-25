@@ -15,13 +15,13 @@ Me chamo Otávio Oliveira, tenho 20 anos e sou natural de São Paulo. Concluí o
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-             src="https://custom-icon-badges.demolab.com/github/stars/OTAVIO-2507?color=E67E00&style=for-the-badge&labelColor=E67E00&logo=star&label=estrelas&cache_seconds=80"/>
+             src="https://custom-icon-badges.demolab.com/github/stars/OTAVIO-2507?color=FF9F1C&style=for-the-badge&labelColor=E67E00&logo=star&label=estrelas&cache_seconds=80"/>
  </a>
  <a href="https://github.com/OTAVIO-2507?followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://img.shields.io/github/followers/OTAVIO-2507?label=Seguidores&style=for-the-badge&color=8B33F1&labelColor=8B33F1&logo=github&logoColor=white&cache_seconds=40"/> 
+            src="https://img.shields.io/github/followers/OTAVIO-2507?label=Seguidores&style=for-the-badge&color=A855F7&labelColor=8B33F1&logo=github&logoColor=white&cache_seconds=40"/> 
 </a>
 </p>
 
