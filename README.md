@@ -29,7 +29,7 @@ Me chamo Otávio Oliveira, tenho 20 anos e sou natural de São Paulo. Concluí o
 
 ### 🤖 Linguagens e Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,git,bootstrap,php,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,bootstrap,php,py)](https://skillicons.dev)
 
 ### 📊 Estatísticas
 
