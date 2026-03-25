@@ -2,7 +2,11 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Otávio Oliveira, tenho 20 anos e sou natural de São Paulo. Concluí o ensino médio na Etec de Santa Isabel, com o curso técnico em informática. Atualmente, estou cursando Engenharia da computação no Centro Universitario ENIAC. Desde cedo, me identifiquei com a capacidade da tecnologia de resolver problemas complexos e transformar realidades. O curso técnico em informática na ETEC despertou minha paixão pelo desenvolvimento de software e pela arquitetura de sistemas, enquanto a Engenharia da Computação no ENIAC tem ampliado minha visão sobre inovação, IoT e inteligência artificial. Meu objetivo é unir teoria e prática para criar soluções escaláveis que impactem positivamente a sociedade – seja em automação, segurança de dados ou tecnologias emergentes. Acredito que a computação é a base para a revolução digital do futuro, e quero estar na linha de frente desse movimento, contribuindo com projetos desafiadores e aprendizado contínuo.
+Sou estudante de Engenharia da Computação, com formação técnica em Informática pela ETEC de Santa Isabel.
+Tenho experiência prática em ambientes de tecnologia e, ao longo da minha formação, desenvolvi uma forte base em resolução de problemas, sistemas e desenvolvimento.
+Minha trajetória começou no curso técnico, onde tive meu primeiro contato com desenvolvimento de software e arquitetura de sistemas. Hoje, na graduação, venho ampliando essa visão com temas como inovação, IoT e inteligência artificial.
+Atualmente, estou direcionando meus estudos para as áreas de Análise de Dados e Desenvolvimento de Software, buscando aplicar na prática o que aprendo e evoluir constantemente.
+Tenho interesse em construir soluções eficientes e escaláveis, que possam gerar impacto real, e estou em busca de uma oportunidade de estágio em tecnologia para continuar aprendendo e contribuindo.
 
 <p align="left">
  
