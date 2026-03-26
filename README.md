@@ -42,10 +42,10 @@ Tenho interesse em construir soluções eficientes e escaláveis, que possam ger
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats-mauve-tau-80.vercel.app/api?username=OTAVIO-2507&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=8B33F1&locale=pt-br&cache_seconds=7200&include_all_commits=true">
+    src="https://github-readme-stats-mauve-tau-80.vercel.app/api?username=OTAVIO-2507&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=8B33F1&locale=pt-br&cache_seconds=60&include_all_commits=true&count_private=true">
 
 <img 
     align="left"
     alt="Top Langs" 
     height="200" 
-    src="https://github-readme-stats-mauve-tau-80.vercel.app/api/top-langs/?username=OTAVIO-2507&bg_color=000000&title_color=ffffff&text_color=ffffff&layout=compact&custom_title=Tecnologias&langs_count=9">
+    src="https://github-readme-stats-mauve-tau-80.vercel.app/api/top-langs/?username=OTAVIO-2507&bg_color=000000&title_color=ffffff&text_color=ffffff&layout=compact&custom_title=Tecnologias&langs_count=9&count_private=true&cache_seconds=60">
