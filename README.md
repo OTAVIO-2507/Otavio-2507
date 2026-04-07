@@ -1,9 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=3642B5&text=Otávio%20Oliveira&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=FullStack%20Developer%20|%20Computer%20Engineering&descAlignY=58&descAlign=50&cache=v10"/>
 
 <p align="center">
-<a href="https://git.io/typing-svg">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3642B5&width=435&lines=Full-Satck+Developer+%7C+Python+%7C+SQL+%7C" alt="Typing SVG">
-</a>
+ <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3642B5&width=435&lines=Full-Satck+Developer+%7C+Python+%7C+SQL+%7C" alt="Typing SVG">
+ </a>
 </p>
 
 # 🧑‍💻 Sobre Mim
