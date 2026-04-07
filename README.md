@@ -34,10 +34,6 @@ Atualmente, foco meus estudos em **Análise de Dados** e **Desenvolvimento FullS
 
 ---
 
-<div style="position: relative; width: 100%; height: 120px; background: linear-gradient(135deg, #1b1b2f 0%, #1f4068 50%, #162447 100%); border-radius: 10px; overflow: hidden;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=120&section=footer&text=%20" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; opacity: 0.15; filter: grayscale(100%) brightness(200%);" />
-</div>
-
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3642B5&height=120&section=footer&cache=v11"/>
 
 > "Transformando café em código e problemas em soluções escaláveis."
