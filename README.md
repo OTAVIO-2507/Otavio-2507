@@ -6,7 +6,7 @@
  </a>
 </p>
 
-# 🧑‍💻 Sobre Mim
+# ☕ 🖥 Sobre Mim
 
 Sou estudante de **Engenharia da Computação**, com formação técnica em Informática pela ETEC de Santa Isabel. Tenho experiência prática em ambientes de tecnologia, desenvolvendo uma base sólida em resolução de problemas, arquitetura de sistemas e desenvolvimento de software.
 
