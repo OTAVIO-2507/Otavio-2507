@@ -15,7 +15,7 @@ Atualmente, foco meus estudos em **Análise de Dados** e **Desenvolvimento FullS
  <a href="https://www.linkedin.com/in/ot%C3%A1vio-oliveira-b9b269267" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
  <a href="mailto:56otavio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=ffffff"></a>
  <a href="https://github.com/OTAVIO-2507?tab=repositories&sort=stargazers"><img src="https://custom-icon-badges.demolab.com/github/stars/OTAVIO-2507?color=FF9F1C&style=for-the-badge&labelColor=E67E00&logo=star&label=estrelas"/></a>
-  <a href="https://github.com/OTAVIO-2507?followers"><img src="https://img.shields.io/github/followers/OTAVIO-2507?label=Seguidores&style=for-the-badge&color=A855F7&labelColor=8B33F1&logo=github&logoColor=white"/></a> 
+  <a href="https://github.com/OTAVIO-2507?followers"><img src="https://img.shields.io/github/followers/OTAVIO-2507?label=Seguidores&style=for-the-badge&color=3855F7&labelColor=3642B5&logo=github&logoColor=white"/></a> 
 </p>
 
 ---
@@ -26,7 +26,7 @@ Atualmente, foco meus estudos em **Análise de Dados** e **Desenvolvimento FullS
 
 **Estatísticas e Performance:**
 <div align="center">
-  <img align="left" height="180" src="https://github-readme-stats-mauve-tau-80.vercel.app/api?username=OTAVIO-2507&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=8B33F1&locale=pt-br&include_all_commits=true&count_private=true&v=2" />
+  <img align="left" height="180" src="https://github-readme-stats-mauve-tau-80.vercel.app/api?username=OTAVIO-2507&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=3642B5&locale=pt-br&include_all_commits=true&count_private=true&v=2" />
   <img align="left" height="180" src="https://github-readme-stats-mauve-tau-80.vercel.app/api/top-langs/?username=OTAVIO-2507&bg_color=000000&title_color=ffffff&text_color=ffffff&layout=compact&custom_title=Tecnologias&langs_count=9&count_private=true&v=2" />
 </div>
 
