@@ -33,8 +33,6 @@ Sou estudante de Engenharia da Computação, com formação técnica em Informá
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,git,bootstrap,php,py)](https://skillicons.dev)
 
-### 📊 Estatísticas
-
 <img 
     align="left"
     alt="GitHub Stats" 
