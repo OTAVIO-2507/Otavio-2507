@@ -33,7 +33,8 @@ Atualmente, foco meus estudos em **Análise de Dados** e **Desenvolvimento FullS
 <br clear="both">
 
 ---
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,2,3&height=150&section=footer&text=%20&fontSize=90"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=120&section=footer&text=%20&colorsAnimation=true"/>
 
 ---
 
