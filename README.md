@@ -14,7 +14,7 @@ Atualmente, foco meus estudos em **Análise de Dados** e **Desenvolvimento FullS
 
 ---
 
-
+# 📬 Contate-Me
 <p align="left">
  <a href="https://www.instagram.com/tavao_oliv/profilecard/?igsh=MTRhcjkzYnN1bGk0Yg==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-FF0080?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discordapp.com/users/672904774949142557" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
