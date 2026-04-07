@@ -30,7 +30,6 @@ Atualmente, foco meus estudos em **Análise de Dados** e **Desenvolvimento FullS
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,git,bootstrap,php,py)](https://skillicons.dev)
 
-**Estatísticas e Performance:**
 <div align="center">
   <img align="left" height="180" src="https://github-readme-stats-mauve-tau-80.vercel.app/api?username=OTAVIO-2507&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=3642B5&locale=pt-br&include_all_commits=true&count_private=true&v=2" />
   <img align="left" height="180" src="https://github-readme-stats-mauve-tau-80.vercel.app/api/top-langs/?username=OTAVIO-2507&bg_color=000000&title_color=ffffff&text_color=ffffff&layout=compact&custom_title=Tecnologias&langs_count=9&count_private=true&v=2" />
