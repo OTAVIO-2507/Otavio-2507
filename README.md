@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,11,20&text=Otávio%20Oliveira&fontSize=60&fontColor=fff&fontAlignY=38&desc=FullStack%20Developer%20|%20Computer%20Engineering&descAlignY=58&descAlign=50&animation=none"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=3642B5&text=Otávio%20Oliveira&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=FullStack%20Developer%20|%20Computer%20Engineering&descAlignY=58&descAlign=50&cache=v10"/>
 
 # 🧑‍💻 Sobre Mim
 
