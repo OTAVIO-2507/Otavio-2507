@@ -2,11 +2,11 @@
 
 **`Desenvolvedor FullStack`**
 
-Sou estudante de Engenharia da Computação, com formação técnica em Informática pela ETEC de Santa Isabel.
-Tenho experiência prática em ambientes de tecnologia e, ao longo da minha formação, desenvolvi uma forte base em resolução de problemas, sistemas e desenvolvimento.
-Minha trajetória começou no curso técnico, onde tive meu primeiro contato com desenvolvimento de software e arquitetura de sistemas. Hoje, na graduação, venho ampliando essa visão com temas como inovação, IoT e inteligência artificial.
-Atualmente, estou direcionando meus estudos para as áreas de Análise de Dados e Desenvolvimento de Software, buscando aplicar na prática o que aprendo e evoluir constantemente.
-Tenho interesse em construir soluções eficientes e escaláveis, que possam gerar impacto real, e estou em busca de uma oportunidade de estágio em tecnologia para continuar aprendendo e contribuindo.
+Sobre Mim
+Graduando em Engenharia da Computação com sólida base técnica em Informática pela ETEC. Possuo experiência prática em ambientes de tecnologia, unindo conhecimentos de infraestrutura à paixão pelo desenvolvimento. Atualmente, foco meus estudos e projetos em Análise de Dados e Desenvolvimento de Software, buscando sempre criar soluções escaláveis e eficientes através de tecnologias como IA e IoT.
+
+About Me
+Computer Engineering student with a strong technical background in IT. I combine hands-on experience in tech environments with a passion for development. Currently, I am focusing my research and projects on Data Analysis and Software Development, aiming to build scalable and efficient solutions through emerging technologies like AI and IoT.
 
 <p align="left">
  
