@@ -1,6 +1,4 @@
-<div style="position: relative; width: 100%; height: 300px; background: linear-gradient(135deg, #162447 0%, #1f4068 50%, #1b1b2f 100%); border-radius: 10px; overflow: hidden;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,11,20&text=Otávio%20Oliveira&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=FullStack%20Developer%20|%20Computer%20Engineering&descAlignY=58&descAlign=50" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; opacity: 0.15; filter: grayscale(100%) brightness(200%);" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,11,20&text=Otávio%20Oliveira&fontSize=60&fontColor=fff&fontAlignY=38&desc=FullStack%20Developer%20|%20Computer%20Engineering&descAlignY=58&descAlign=50&animation=none"/>
 
 # 🧑‍💻 Sobre Mim
 
