@@ -10,7 +10,7 @@
 
 <table border="0">
   <tr>
-    <td width="47%" style="border: none; background: transparent;" valign="top">
+    <td width="60%" style="border: none; background: transparent;" valign="top">
       Sou estudante de <b>Engenharia da Computação</b>, com formação técnica em Informática pela ETEC de Santa Isabel. Tenho experiência prática em ambientes de tecnologia, desenvolvendo uma base sólida em resolução de problemas, arquitetura de sistemas e desenvolvimento de software.
       <br><br>
       Atualmente, foco meus estudos em <b>Análise de Dados</b> e <b>Desenvolvimento FullStack</b>, explorando tecnologias modernas para construir soluções eficientes, escaláveis e com design interativo. Sou entusiasta de inovação, IoT e inteligência artificial.
