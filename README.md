@@ -5,7 +5,7 @@
 </p>
 
 
-### ☕ 🖥 Sobre Mim
+### Sobre Mim
 
 <div align="center">
 
@@ -29,7 +29,7 @@ Atualmente, foco meus estudos em Análise de Dados e Desenvolvimento FullStack, 
 
 </div>
 
-### 🚀 Tech Stack
+### Tech Stack
 
 <div align="center">
 
@@ -47,7 +47,7 @@ Atualmente, foco meus estudos em Análise de Dados e Desenvolvimento FullStack, 
 
 </div>
 
-### 📬 Contato
+### Contato
 
 <div align="center">
 
