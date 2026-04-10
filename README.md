@@ -32,7 +32,7 @@ Atualmente, foco meus estudos em Análise de Dados e Desenvolvimento FullStack, 
 
 ---
 
-### 🚀 Tech Stack
+### 🛠️ Tech Stack
 
 <div align="center">
 
@@ -73,7 +73,6 @@ Atualmente, foco meus estudos em Análise de Dados e Desenvolvimento FullStack, 
 </a>
 
 <br><br>
-
 
 <div align="center">
 
