@@ -41,7 +41,7 @@ Atualmente, foco meus estudos em Análise de Dados e Desenvolvimento FullStack, 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=OTAVIO-2507&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=3642B5&include_all_commits=true&count_private=true&border_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=OTAVIO-2507&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=3642B5&include_all_commits=false&count_private=false&border_color=ffffff"/>
 
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=OTAVIO-2507&bg_color=000000&title_color=ffffff&text_color=ffffff&layout=compact&langs_count=9&border_color=ffffff"/>
 
