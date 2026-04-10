@@ -4,6 +4,7 @@
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3642B5&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Python+%7C+SQL+%7C+JavaScript;Data+Analytics+Enthusiast;Building+scalable+solutions" />
 </p>
 
+---
 
 ### Sobre Mim
 
@@ -29,7 +30,9 @@ Atualmente, foco meus estudos em Análise de Dados e Desenvolvimento FullStack, 
 
 </div>
 
-### Tech Stack
+---
+
+### 🚀 Tech Stack
 
 <div align="center">
 
@@ -47,7 +50,9 @@ Atualmente, foco meus estudos em Análise de Dados e Desenvolvimento FullStack, 
 
 </div>
 
-### Contato
+---
+
+### 📬 Contato
 
 <div align="center">
 
@@ -67,9 +72,8 @@ Atualmente, foco meus estudos em Análise de Dados e Desenvolvimento FullStack, 
 <img src="https://img.shields.io/badge/Instagram-FF0080?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-</div>
+<br><br>
 
-<br>
 
 <div align="center">
 
