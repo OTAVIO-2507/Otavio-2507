@@ -6,7 +6,7 @@
  </a>
 </p>
 
-## ☕ 🖥 Sobre Mim
+# ☕ 🖥 Sobre Mim
 
 <table border="0">
   <tr>
@@ -37,7 +37,7 @@
 
 ---
 
-### 🤖 Tech Stack
+## 🤖 Tech Stack
 
  [![My Skills](https://skillicons.dev/icons?i=html,css,js,git,bootstrap,php,py)](https://skillicons.dev)
 
