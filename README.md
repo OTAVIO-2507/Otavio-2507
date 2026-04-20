@@ -14,7 +14,7 @@
 <tr>
 <td width="50%" valign="top">
 
-Sou estudante de Engenharia da Computação, com formação técnica em Informática pela ETEC de Santa Isabel. Tenho experiência prática em ambientes de tecnologia, desenvolvendo uma base sólida em resolução de problemas, arquitetura de sistemas e desenvolvimento de software.
+Sou estudante de Engenharia da Computação na ENIAC, com formação técnica em Informática pela ETEC de Santa Isabel. Tenho experiência prática em ambientes de tecnologia, desenvolvendo uma base sólida em resolução de problemas, arquitetura de sistemas e desenvolvimento de software.
 
 Atualmente, foco meus estudos em Análise de Dados e Desenvolvimento FullStack, explorando tecnologias modernas para construir soluções eficientes, escaláveis e com design interativo. Sou entusiasta de inovação, IoT e inteligência artificial.
 
