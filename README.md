@@ -64,6 +64,10 @@ Atualmente, foco meus estudos em Análise de Dados e Desenvolvimento FullStack, 
 <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<a href="https://otavio-2507.github.io/OtavioDev/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logoColor=white"/>
+</a>
+
 <a href="https://discordapp.com/users/672904774949142557">
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
