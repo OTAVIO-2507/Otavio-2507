@@ -36,7 +36,7 @@ Atualmente, foco meus estudos em Análise de Dados e Desenvolvimento FullStack, 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,git,bootstrap,php,py&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,git,bootstrap,java,py&theme=dark" />
 
 </div>
 
