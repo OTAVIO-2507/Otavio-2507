@@ -32,11 +32,11 @@ Atualmente, foco meus estudos em Análise de Dados e Desenvolvimento FullStack, 
 
 ---
 
-### Tech Stack
+### 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,git,js,css,docker,bootstrap,py,tailwind,java,nextjs,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,git,js,css,docker,bootstrap,py,django,tailwind,java,nextjs&theme=dark" />
 
 </div>
 
@@ -52,7 +52,7 @@ Atualmente, foco meus estudos em Análise de Dados e Desenvolvimento FullStack, 
 
 ---
 
-### Contato
+### 📬 Contato
 
 <div align="center">
 
