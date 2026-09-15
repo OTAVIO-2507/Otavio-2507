@@ -64,7 +64,7 @@ Atualmente, foco meus estudos em Engenharia de Software e Desenvolvimento FullSt
 <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://otavio-2507.github.io/OtavioDev/">
+<a href="[https://otavio-oliveira.vercel.app/]">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logoColor=white"/>
 </a>
 
